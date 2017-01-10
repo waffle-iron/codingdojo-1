@@ -1,6 +1,8 @@
 # Intro
 This repository is created as a starting point for a Coding-DoJo documentation. This repo is under Apache 2.0 license. Feel free to use and modify. Any feedback and enhancesments are welcome.
 
+A short intro to the dojo nd some hints in tsting and code writing are given in [doc/README](./doc/README.md)
+
 # Test status
 ## master branch
 [![Build Status](https://travis-ci.org/TLoebner/codingdojo.svg?branch=master)](https://travis-ci.org/TLoebner/codingdojo)
