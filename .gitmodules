@@ -1,0 +1,21 @@
+[submodule "lib/JGiven"]
+	path = lib/JGiven
+	url = https://github.com/TNG/JGiven.git
+[submodule "lib/spock"]
+	path = lib/spock
+	url = https://github.com/spockframework/spock.git
+[submodule "lib/powermock"]
+	path = lib/powermock
+	url = https://github.com/powermock/powermock
+[submodule "lib/easymock"]
+	path = lib/easymock
+	url = https://github.com/easymock/easymock
+[submodule "lib/mockito"]
+	path = lib/mockito
+	url = https://github.com/mockito/mockito.git
+[submodule "lib/junit5"]
+	path = lib/junit5
+	url = https://github.com/junit-team/junit5.git
+[submodule "lib/googletest"]
+	path = lib/googletest
+	url = https://github.com/google/googletest.git
