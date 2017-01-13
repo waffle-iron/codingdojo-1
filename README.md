@@ -7,5 +7,8 @@ A short intro to the dojo nd some hints in tsting and code writing are given in 
 ## master branch
 [![Build Status](https://travis-ci.org/TLoebner/codingdojo.svg?branch=master)](https://travis-ci.org/TLoebner/codingdojo)
 
+## Feature Branch
+[![Build Status](https://travis-ci.org/TLoebner/codingdojo.svg?branch=20170119_CPP_dojo)](https://travis-ci.org/TLoebner/codingdojo)
+
 # Contribution
 All contribution is heavily welcome. If You like to contribute please create a Folder for each Kata and use the following naming convention `<YYYYMMDD>_<PROGRAMMINGLANGUAGE>_<KATANAME>`. Each folder should contain a README.md in English, but you can contribute using any other language. In this case please use `README_<LANGUAGE>.md`. The Readme should contain the excersice description and a short description of the solution. Any additional information on difficulties and solution description is welcome. Feel free to use it as a coding documentation.
