@@ -8,3 +8,9 @@
 [Minesweeper](http://codingdojo.org/cgi-bin/index.pl?KataMinesweeper)
 
 [Kata-Solution](https://github.com/bibryam/game-of-life-TDD.git)
+
+[CoderDojoPotsdam](https://github.com/CoderDojoPotsdam)
+
+[coursework for coding dojo](https://github.com/dmleong/coding-dojo)
+
+[felisadeang](https://github.com/felisadeang?tab=repositories)
