@@ -18,3 +18,12 @@
 [Youtube-Video](https://www.youtube.com/watch?v=Gjcz-H73I0Q)
 
 [GoogleTest Examples](https://github.com/snikulov/google-test-examples.git)
+
+
+## Additional tasks
+
+* docker based testing
+* creation of make files
+* dependency trees
+* security tests
+* integration tests
