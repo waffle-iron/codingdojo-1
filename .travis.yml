@@ -1,11 +1,12 @@
 # Travis CI configuration file
 
-language: c
+language: cpp
 
 script:
   #- gcc src/CCalc.c -o ./CCalc.o
   #- gcc src/Test_CCalc.c -o ./Test_CCalc.o
   #- ./CCalc.o
+  - echo "Hello World !!!"
 
 matrix:
   include:
